@@ -1,16 +1,9 @@
-# React + Vite
+[ GAME PRIA SOLO ]
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Dalam era digital ini kecemasan atas hilangnya budaya masih melekat pada setiap pecinta budaya. Banyak anak-anak yang lebih menyukai budaya luar dibandingkan budaya lokal. Keterlibatan teknologi juga turut andil dalam permasalahan ini. Oleh karena itu, perlu adanya sebuah solusi untuk melestarikan budaya melalui media digital yang termanifestasi dalam "Game Pria Solo".
 
-Currently, two official plugins are available:
+Game Pria Solo adalah game gamifikasi budaya solo. Game ini memadukan unsur budaya, gamifikasi, dan teknologi untuk menciptakan efek ketertarikan akan budaya. Fitur utama game ini meliputi sistem level, ensiklopedia budaya, dan penghargaan gelar pria solo. Melalui game ini anak-anak dapat belajar budaya dengan cara yang lebih interaktif dan menyenangkan. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Terima kasih atas kontribusinya "NISA ALIFATUN NUR AZIZAH" atas pengembangan game ini. Game ini masih memiliki banyak kekurangan. Oleh karena itu, saya terbuka kepada siapa saja yang ingin membantu pengembangan game ini.
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Salam budaya, Bayu Ferdianto.
