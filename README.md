@@ -1,4 +1,4 @@
-[ Game Pria Solo ]
+[ GAME PRIA SOLO ]
 
 Dalam era digital ini kecemasan atas hilangnya budaya masih melekat pada setiap pecinta budaya. Banyak anak-anak yang lebih menyukai budaya luar dibandingkan budaya lokal. Keterlibatan teknologi juga turut andil dalam permasalahan ini. Oleh karena itu, perlu adanya sebuah solusi untuk melestarikan budaya melalui media digital yang termanifestasi dalam "Game Pria Solo".
 
