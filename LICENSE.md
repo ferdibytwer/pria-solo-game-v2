@@ -15,7 +15,7 @@ furnished to do so, subject to the following conditions:
    
    - Additionally, any use, modification, or distribution of this Software,
      including derivative works, MUST include clear attribution to:
-     "[NAMA ANDA]" as the original creator of "Pria Solo Game".
+     "Bayu Ferdianto" as the original creator of "Pria Solo Game".
    
    - This attribution must appear in:
      a) The software's documentation or README
@@ -29,6 +29,13 @@ furnished to do so, subject to the following conditions:
 3. NO MISREPRESENTATION:
    - Users may not claim original authorship of this Software.
    - Derivative works must not remove or obscure the original attribution.
+4. AI-GENERATED CONTENT DISCLAIMER:
+   - This software was developed with the assistance of
+     artificial intelligence tools.
+   - However, significant creative input, modifications,
+     and game design decisions are human-original work.
+   - The copyright holder asserts creative authorship
+     over the final work as a derivative creation.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
