@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .container_custom {
+    @apply lg:max-w-5xl w-full h-auto md:h-[550px] relative rounded-3xl overflow-hidden aspect-video shadow-2xl bg-gray-800 flex flex-col;
+  }
+  .container_game {
+    @apply w-full max-w-5xl aspect-video relative;
+  }
+}
